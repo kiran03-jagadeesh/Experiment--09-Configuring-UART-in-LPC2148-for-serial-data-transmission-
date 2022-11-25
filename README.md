@@ -73,8 +73,9 @@ int main (void)  {
 ~~~
 
 ### Output screen shots :
-![output](m1.jpg)
-![output](m2.jpg)
+![WhatsApp Image 2022-11-25 at 2 23 31 PM](https://user-images.githubusercontent.com/94174536/203972582-e4abfe6f-6e26-4362-9cf5-42c3eed56070.jpeg)
+ ![WhatsApp Image 2022-11-25 at 2 23 31 PM (2)](https://user-images.githubusercontent.com/94174536/203972648-9e93af81-a821-4637-84d4-054019fcba64.jpeg)
+  
 
 ### Result :
 UART is programmed for transmitting serial data on virtual terminal  
